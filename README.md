@@ -1,4 +1,4 @@
-# Formulario
+# Formulário
 Tecnologias utilizadas:
 
 * HTML5;
